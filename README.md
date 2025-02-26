@@ -1,5 +1,4 @@
 # To-Do List Web Application
-![image alt]https://github.com/ismayilovadilber66/todo-list/blob/ddf48c01427ee95503cbb83f5757db4dd7f5caf6/todo-list.png
 
 ## Overview
 

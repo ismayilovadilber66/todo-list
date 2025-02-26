@@ -1,5 +1,5 @@
 # To-Do List Web Application
-![Alt text] (https://github.com/ismayilovadilber66/todo-list/blob/be9b264543573ffa7371ab692daddae0cc6ccf99/todo-list.png)
+![Alt text](https://github.com/ismayilovadilber66/todo-list/blob/be9b264543573ffa7371ab692daddae0cc6ccf99/todo-list.png)
 ## Overview
 
 The To-Do List Web Application is a simple yet efficient task management tool built using HTML, CSS, and JavaScript. It allows users to create, manage, and delete tasks in an intuitive and interactive interface. This project demonstrates essential front-end development skills, including DOM manipulation, event handling, and local storage management.
